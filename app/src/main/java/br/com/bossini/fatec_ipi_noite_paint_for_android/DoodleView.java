@@ -110,6 +110,6 @@ public class DoodleView extends View {
     }
 
     private void touchStarted (float x, float y, int lineID){
-       
+
     }
 }
